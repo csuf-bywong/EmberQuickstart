@@ -1,6 +1,6 @@
 CPSC 473-02
-EmberQuickstart - Assignment 8
-Prof Avery
+ EmberQuickstart - Assignment 8
+ Prof Avery
 
 Author: Belinda Wong
 
