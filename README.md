@@ -1,3 +1,9 @@
+CPSC 473-02
+EmberQuickstart - Assignment 8
+Prof Avery
+
+Author: Belinda Wong
+
 # ember-quickstart
 
 This README outlines the details of collaborating on this Ember application.
