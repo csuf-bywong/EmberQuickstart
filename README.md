@@ -1,4 +1,4 @@
-CPSC 473-02\0
+CPSC 473-02
 EmberQuickstart - Assignment 8
 Prof Avery
 
